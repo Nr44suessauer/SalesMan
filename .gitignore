@@ -1,2 +1,5 @@
-# Ignore all .png files in this directory and its subdirectories
-*.png
+
+#these specific files
+brute_force.png
+christofides.png
+nearest_neighbor.png
